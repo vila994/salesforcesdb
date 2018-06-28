@@ -30,7 +30,7 @@
 import axios from 'axios';
 
 // Change this if you want to try locally to http://localhost:3000/search
-const url = 'http://salesforcesdb.herokuapp.com/search';
+const url = 'https://salesforcesdb.herokuapp.com/search';
 // const url = 'http://localhost:3000/search';
 
 const wsConfig = {
